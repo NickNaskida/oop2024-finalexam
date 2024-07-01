@@ -1,0 +1,2 @@
+Product1 - 10.0
+Product3 - 30.0
